@@ -15,13 +15,6 @@
     ],
     "require": {
         "php": ">=7.0.0",
-        "symfony/framework-bundle": "dev-master",
-        "symfony/console": "dev-master",
-        "symfony/yaml": "dev-master",
-        "doctrine/orm": "dev-master",
-        "doctrine/doctrine-bundle": "dev-master",
-        "sensio/framework-extra-bundle": "dev-master",
-        "guzzlehttp/guzzle": "dev-master",
         "forestadmin/forest-php": "~0.1",
         "psecio/jwt": "dev-master"
     },
